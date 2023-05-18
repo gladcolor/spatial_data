@@ -1,0 +1,106 @@
+ACS2019_5year_county.csv
+
+American Community Survey (ACS) 5-Year Estimates
+
+County level, 2018 - 2021, extracted by [Social Explorer](socialexplorer.com), inculding 101 colunms:
+ - FIPS
+ - Area Name
+ - Qualifying Name
+ - State Abbreviation
+ - State FIPS
+ - Area (Land)
+ - Area (Water)
+ - Total Population
+ - Population Density (Per Sq. Mile)
+ - Area Total:
+ - Area Total: Area (Land)
+ - Area Total: Area (Water)
+ - Total Population: Male
+ - Total Population: Female
+ - Total Population: Under 5 Years
+ - Total Population: 5 to 9 Years
+ - Total Population: 10 to 14 Years
+ - Total Population: 15 to 17 Years
+ - Total Population: 18 to 24 Years
+ - Total Population: 25 to 34 Years
+ - Total Population: 35 to 44 Years
+ - Total Population: 45 to 54 Years
+ - Total Population: 55 to 64 Years
+ - Total Population: 65 to 74 Years
+ - Total Population: 75 to 84 Years
+ - Total Population: 85 Years and Over
+ - Total Population: White Alone
+ - Total Population: Black or African American Alone
+ - Total Population: American Indian and Alaska Native Alone
+ - Total Population: Asian Alone
+ - Total Population: Native Hawaiian and Other Pacific Islander Alone
+ - Total Population: Some Other Race Alone
+ - Total Population: Two or More Races
+ - Households:
+ - Households: Family Households
+ - Households: Family Households: Married-Couple Family
+ - Households: Family Households: Other Family
+ - Households: Family Households: Other Family: Male Householder, No Wife Present
+ - Households: Family Households: Other Family: Female Householder, No Husband Present
+ - Households: Nonfamily Households
+ - Households: Nonfamily Households: Male Householder
+ - Households: Nonfamily Households: Female Householder
+ - Occupied Housing Units
+ - Occupied Housing Units: 1-Person Household
+ - Occupied Housing Units: 2-Person Household
+ - Occupied Housing Units: 3-Person Household
+ - Occupied Housing Units: 4-Person Household
+ - Occupied Housing Units: 5-Person Household
+ - Occupied Housing Units: 6-Person Household
+ - Occupied Housing Units: 7-or-More Person Household
+ - Population 25 Years and Over:
+ - Population 25 Years and Over: Less than High School
+ - Population 25 Years and Over: High School Graduate (Includes Equivalency)
+ - Population 25 Years and Over: Some College
+ - Population 25 Years and Over: Bachelor's Degree
+ - Population 25 Years and Over: Master's Degree
+ - Population 25 Years and Over: Professional School Degree
+ - Population 25 Years and Over: Doctorate Degree
+ - Population 3 Years and Over:
+ - Population 3 Years and Over: Enrolled in School
+ - Population 3 Years and Over: Not Enrolled in School
+ - Civilian Population 16 to 19 Years:
+ - Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)
+ - Civilian Population 16 to 19 Years: High School Graduate, or Enrolled (In School)
+ - In Labor Force 16 Years and Over:
+ - In Labor Force 16 Years and Over: in Armed Forces
+ - In Labor Force 16 Years and Over: Civilian
+ - Civilian Population in Labor Force 16 Years and Over:
+ - Civilian Population in Labor Force 16 Years and Over: Employed
+ - Civilian Population in Labor Force 16 Years and Over: Unemployed
+ - Households: Less than $10,000
+ - Households: $10,000 to $14,999
+ - Households: $15,000 to $19,999
+ - Households: $20,000 to $24,999
+ - Households: $25,000 to $29,999
+ - Households: $30,000 to $34,999
+ - Households: $35,000 to $39,999
+ - Households: $40,000 to $44,999
+ - Households: $45,000 to $49,999
+ - Households: $50,000 to $59,999
+ - Households: $60,000 to $74,999
+ - Households: $75,000 to $99,999
+ - Households: $100,000 to $124,999
+ - Households: $125,000 to $149,999
+ - Households: $150,000 to $199,999
+ - Households: $200,000 or More
+ - Median Household Income (In current year Inflation Adjusted Dollars)
+ - Per Capita Income (In current year Inflation Adjusted Dollars)
+ - Gini Index
+ - Population for Whom Poverty Status Is Determined:
+ - Population for Whom Poverty Status Is Determined: Under .50
+ - Population for Whom Poverty Status Is Determined: .50 to .74
+ - Population for Whom Poverty Status Is Determined: .75 to .99
+ - Population for Whom Poverty Status Is Determined: 1.00 to 1.49
+ - Population for Whom Poverty Status Is Determined: 1.50 to 1.99
+ - Population for Whom Poverty Status Is Determined: 2.00 and Over
+ - Total:
+ - Total: No Health Insurance Coverage
+ - Total: with Health Insurance Coverage
+ - Total: with Health Insurance Coverage: Public Health Coverage
+ - Total: with Health Insurance Coverage: Private Health Insurance
