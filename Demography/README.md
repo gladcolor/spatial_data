@@ -1,5 +1,5 @@
 # American Community Survey (ACS) 5-Year Estimates
-County level, 2018 - 2021, e.g., `ACS2019_5year_county.csv`, extracted by [Social Explorer](socialexplorer.com), inculding 101 colunms:
+County level, 2018 - 2021, e.g., `ACS2019_5year_county.csv`, extracted by [Social Explorer](https://socialexplorer.com), inculding 101 colunms:
  - FIPS
  - Area Name
  - Qualifying Name
